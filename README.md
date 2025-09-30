@@ -36,9 +36,13 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoisi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoisi&layout=compact&theme=radical)  
+## 🔥 Racha de contribuciones  
+![GitHub Streak](https://streak-stats.demolab.com?user=tiagoisi&theme=radical&hide_border=true)  
+
+---
+
+## 📈 Actividad reciente  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagoisi&theme=radical&hide_border=true)  
 
 ---
 
