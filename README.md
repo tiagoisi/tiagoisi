@@ -1,4 +1,4 @@
-# ¡Hola! Soy Tiago
+# 👋 ¡Hola! Soy Tiago
 
 ### 💻 Full Stack Developer — Especializado en Back End
 
