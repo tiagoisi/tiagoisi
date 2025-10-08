@@ -11,13 +11,13 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nestjs,react,typeorm,swagger&perline=8" alt="stack-1"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nestjs,react,swagger&perline=8" alt="stack-1"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mongoose,express,git,github,npm&perline=8" alt="stack-2"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwindcss,insomnia,vercel,astro,figma&perline=8" alt="stack-3"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss,postman,vercel,astro,figma&perline=8" alt="stack-3"/>
 </p>
 
 
