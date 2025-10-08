@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nestjs,react,swagger&perline=8" alt="stack-1"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mongoose,express,git,github,npm&perline=8" alt="stack-2"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,express,git,github,npm&perline=8" alt="stack-2"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwindcss,postman,vercel,astro,figma&perline=8" alt="stack-3"/>
