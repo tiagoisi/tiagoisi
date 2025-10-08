@@ -29,22 +29,35 @@
 ## 🎯 Proyectos Destacados
 
 ### 🛍️ [Ecommerce API](https://github.com/tiagoisi/ecommerce-tiagoisi)
-> API robusta desarrollada con **NestJS**, autenticación segura mediante **JWT**, y documentación completa con **Swagger**.  
-> Incluye gestión integral de **productos, pedidos y categorías**.  
-> **Stack:** NestJS · TypeORM · PostgreSQL · JWT · Swagger
+> API robusta desarrollada con **NestJS**, enfocada en la escalabilidad, seguridad y buenas prácticas.  
+> Incluye autenticación con **JWT**, documentación con **Swagger**, y gestión completa de productos, categorías y pedidos.
+
+**Características principales:**
+- Arquitectura modular y escalable con **NestJS** y **TypeScript**
+- Base de datos relacional en **PostgreSQL** con **TypeORM**
+- Autenticación y autorización con **JWT**
+- CRUD completo de productos, categorías y pedidos
+- Validación de datos con **Class-Validator**
+- Documentación completa con **Swagger / OpenAPI**
+- Configuración de entorno con **dotenv**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bfc6cab4-a432-4698-8bb7-e8d2c60ea5d4" width="600" alt="Ecommerce API"/>
 </p>
 
-### 🧬 [SteelCore | Gestor de Turnos Fitness](https://github.com/tiagoisi/gestor-turnos)
-> Plataforma Full Stack para **agendamiento y gestión de turnos** con validación de horarios y fechas.
-> Incluye **autenticación de usuario**, rutas protegidas y lógica de negocio para la **cancelación controlada** de citas (hasta 24h antes).
+---
+
+### 🏋️ SteelCore | Gestor de Turnos Fitness
+> Plataforma Full Stack para **agendamiento y gestión de turnos** con validación de horarios y fechas.  
+> Incluye **autenticación de usuario**, rutas protegidas y lógica de negocio para la **cancelación controlada** de citas (hasta 24h antes).  
+> **Demo en vivo:** [ENLACE A DEMO EN VIVO]  
+> **Repositorio:** [https://github.com/tiagoisi/gestor-turnos](https://github.com/tiagoisi/gestor-turnos)  
 > **Stack:** Node.js · Express · TypeScript · TypeORM · PostgreSQL · React · Formik · Middlewares
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f60eec2b-f960-48e9-8834-f09d52a74d0e" width="600" alt="SteelCore Home Page"/>
 </p>
+
 ---
 
 ## ⚡ Sobre mí
