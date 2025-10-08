@@ -29,8 +29,8 @@
 ## 🎯 Proyectos Destacados
 
 ### 🛍️ [Ecommerce API](https://github.com/tiagoisi/ecommerce-tiagoisi)
-> API robusta desarrollada con **NestJS**, enfocada en la escalabilidad, seguridad y buenas prácticas.  
-> Incluye autenticación con **JWT**, documentación con **Swagger**, y gestión completa de productos, categorías y pedidos.
+* API robusta desarrollada con **NestJS**, enfocada en la escalabilidad, seguridad y buenas prácticas.  
+* Incluye autenticación con **JWT**, documentación con **Swagger**, y gestión completa de productos, categorías y pedidos.
 
 **Características principales:**
 - Arquitectura modular y escalable con **NestJS** y **TypeScript**
@@ -41,22 +41,20 @@
 - Documentación completa con **Swagger / OpenAPI**
 - Configuración de entorno con **dotenv**
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bfc6cab4-a432-4698-8bb7-e8d2c60ea5d4" width="600" alt="Ecommerce API"/>
-</p>
-
 ---
 
-### 🏋️ SteelCore | Gestor de Turnos Fitness
-> Plataforma Full Stack para **agendamiento y gestión de turnos** con validación de horarios y fechas.  
-> Incluye **autenticación de usuario**, rutas protegidas y lógica de negocio para la **cancelación controlada** de citas (hasta 24h antes).  
-> **Demo en vivo:** [ENLACE A DEMO EN VIVO]  
-> **Repositorio:** [https://github.com/tiagoisi/gestor-turnos](https://github.com/tiagoisi/gestor-turnos)  
-> **Stack:** Node.js · Express · TypeScript · TypeORM · PostgreSQL · React · Formik · Middlewares
+### 🧬 [SteelCore | Gestor de Turnos Fitness](https://github.com/tiagoisi/gestor-turnos)
+* Plataforma Full Stack para **agendamiento y gestión de turnos** con validación de horarios y fechas.  
+* Incluye **autenticación de usuario**, rutas protegidas y lógica de negocio para la **cancelación controlada** de citas (hasta 24h antes).
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f60eec2b-f960-48e9-8834-f09d52a74d0e" width="600" alt="SteelCore Home Page"/>
-</p>
+**Características principales:**
+- Arquitectura **Full Stack** (React/Express) con separación de responsabilidades
+- Uso de **TypeScript** en el *backend* para tipado estricto y código robusto
+- Persistencia de datos con **PostgreSQL** y **TypeORM**
+- **Middlewares** de Express para validación de datos y seguridad de rutas
+- Lógica de negocio para **restricción horaria** (Lunes a Viernes, 9:00 a 17:30)
+- Gestión de estado y validación de formularios en *frontend* con **Formik**
+- Interfaz de usuario dinámica con **React**
 
 ---
 
